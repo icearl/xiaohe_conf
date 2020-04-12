@@ -1,0 +1,17 @@
+#
+#
+
+config_version: 0.9 #配置文件版本
+app_setting:
+    space_swipe_to_move: true #开启空格键盘移动光标
+    play_key_voice: true #开启键盘声
+    play_key_voice_name: "default.caf" #键盘声音文件
+    swipe_just_insert_symbol: true #未开放
+    is_custom_key_font: true #键盘字体是否自字义
+    is_show_candidate_comment: false #未开放
+style:
+    font_name: "PingFang SC" #字体
+    candidate_font_size: 20.0 #修改栏字体大小
+    candidate_font_color: 0x000000 #候选字体颜色
+    candidate_height_font_color: 0x0080f8 #候选栏高亮字体颜色
+    numberboard_font_size: 26.0 #数字键盘字体大小
